@@ -11,6 +11,6 @@ After doing that a short poem will be generated, filling in the words you've giv
 
 ## Potential Future Changes
 As far as how to make this project better, I was thinking about 
-* Implementinng AI
+* Figuring out how to implement AI
 * Cleaning up the code/Making it more efficient.
-* Adding a UI to make it look "Pretty"
+* Adding a GUI to make my project look more presentable
